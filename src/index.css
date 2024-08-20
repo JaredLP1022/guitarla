@@ -1,0 +1,40 @@
+.footerFixed{
+  position: absolute;
+  background-color: black;
+  border-radius: 44px 44px 0px 0px;
+  width: 83%;
+  
+  margin-top: 20px;
+
+}
+
+.title-footer{
+  padding-left: 35px;
+  padding-top: 3px;
+  font-size: 12px;
+  color: beige;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: left;
+  height: 20px;
+}
+
+.description-footer{
+  font-size: 12px;
+  color: beige;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  width: 100%;
+
+}
+
+.footer-footer{
+  font-size: 12px;
+  color: beige;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+
+}
+.imagenJared{
+  height: 450px;
+}
+
